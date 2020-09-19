@@ -1,0 +1,27 @@
+{
+  "name": "servidor-express",
+  "version": "1.0.0",
+  "description": "Exemplo de como fazer um servidor.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denenewton/servidor-express.git"
+  },
+  "keywords": [
+    "express",
+    "servidor"
+  ],
+  "author": "Daniel dos Santos Araujo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/denenewton/servidor-express/issues"
+  },
+  "homepage": "https://github.com/denenewton/servidor-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
